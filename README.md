@@ -1,5 +1,5 @@
-# gbp-f26-comp1238
-Class Notes/links 
+# GBP F26 COMP1238 Class Notes & Links 
+
 
 ## Useful Links 
 - [The Lorem Ipsum for photos](https://picsum.photos/)
