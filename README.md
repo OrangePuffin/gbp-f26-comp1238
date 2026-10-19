@@ -11,4 +11,4 @@ GBP F26 COMP1238 Notes
 - [GitHub for beginners on YouTube](https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f)
 
 ## Page 02
-Link to the notes page [Summary Notes for COMP1238] (comp1238.md)
+Link to the notes page [Summary Notes for COMP1238](comp1238.md)
